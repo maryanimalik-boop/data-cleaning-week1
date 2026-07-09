@@ -26,4 +26,4 @@ See [`data_cleaning.py`](./data_cleaning.py) for the full cleaning and analysis 
 
 ## Author
 **Maryam Malik (Maryani)** — Data Annotator & Analytics Trainee
-[LinkedIn Profile] | [experts.opentrain.ai/maryani-m]
+[LinkedIn Profile](https://www.linkedin.com/in/maryam-malik-259ab1104)
